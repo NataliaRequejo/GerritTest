@@ -149,3 +149,8 @@ Termino de instalar gerrit
 abrimos una linea de comandos com administrador
 vamos a la carpeta bin C:\gerrit_application_directory\bin
 y ejecutamos gerrit.sh start
+
+No funciona en Windows7..........
+
+
+Instalando el Tomcat...
