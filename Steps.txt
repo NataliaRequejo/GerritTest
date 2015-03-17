@@ -1,0 +1,8 @@
+#Create Repository form web
+#Add files
+git add *.c
+git add *.h
+#Commit label
+git commit -m 'initial project version'
+#push files to repo
+git push origin master
