@@ -1,4 +1,6 @@
 #Create Repository form web
+git config --global user.name "YOUR NAME"
+git config --global user.email "YOUR EMAIL ADDRESS"
 #Add files
 git add *.c
 git add *.h
